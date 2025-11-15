@@ -4,7 +4,7 @@ A full-stack web application built with SvelteKit that allows users to manage th
 
 ## 🚀 Live Demo
 
-:white_check_mark: **Link to the live application:** `[YOUR_LIVE_DEMO_LINK_HERE]`
+:white_check_mark: **Link to the live application:** `https://ticktasksdemo.netlify.app/auth/login`
 
 ## 🔑 Test Credentials
 
